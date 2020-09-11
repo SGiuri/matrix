@@ -1,6 +1,6 @@
 class Matrix:
     """
-    A class used to represent Matrix
+    A class used to represent a Matrix
 
     ...
 
@@ -45,7 +45,7 @@ class Matrix:
         Parameters
         ----------
         index : int
-            The column number to be returned (1 --> first row)
+            The column number to be returned (1 --> first column)
         """
 
         # converting each "index"th element of each row in int and returning as list
